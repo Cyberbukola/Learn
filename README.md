@@ -1,1 +1,2 @@
-i am need to github
+i am new to github
+g
