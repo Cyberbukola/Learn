@@ -1,2 +1,1 @@
-i am new to github
-g
+i am new to github.com
